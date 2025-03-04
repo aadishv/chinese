@@ -1,0 +1,7 @@
+# Block .ropeproject, .ruff_cache, .venv, __pycache__, node_modules, uv.lock
+.ropeproject
+.ruff_cache
+.venv
+__pycache__
+node_modules
+uv.lock
