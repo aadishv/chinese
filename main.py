@@ -441,8 +441,12 @@ def load_xml(filein, fileout, level):
             print(f"An unexpected error occurred: {e}")
             return None
 
+    listed = run_command(f"uv run pip list")
+    if "html2text" not in listed:
+        print("Installing html2text...")
+        run_command(f"uv pip install html2text")
     cards = []
-    markdown = run_command(f"html2text {filein}")
+    markdown = run_command(f"uv run html2text {filein}")
     for line in markdown.split("\n"):
         if line.count("|") == 2:
             splits = list(map(lambda a: a.strip(), line.split("|")))

@@ -691,8 +691,8 @@
   },
   "刻": {
     "english": "measure word: quarter (of an hour)",
-    "chinese": "刻",
     "pinyin": "kè",
+    "chinese": "刻",
     "level": 3
   },
   "事儿": {
@@ -721,8 +721,8 @@
   },
   "明天": {
     "english": "time: tomorrow",
-    "chinese": "明天",
     "pinyin": "míngtiān",
+    "chinese": "明天",
     "level": 3
   },
   "晚饭": {
@@ -961,8 +961,8 @@
   },
   "昨天": {
     "english": "time: yesterday",
-    "chinese": "昨天",
     "pinyin": "zuótiān",
+    "chinese": "昨天",
     "level": 4
   },
   "所以": {
@@ -1033,8 +1033,8 @@
   },
   "画画儿": {
     "english": "verb + object: to draw (a picture); to paint (a picture)",
-    "chinese": "画画儿",
     "pinyin": "huàhuàr",
+    "chinese": "画画儿",
     "level": 4
   },
   "下棋": {
@@ -1051,8 +1051,8 @@
   },
   "玩电脑游戏": {
     "english": "verb + object: to play video games",
-    "chinese": "玩电脑游戏",
     "pinyin": "wán diànnǎo yóuxì",
+    "chinese": "玩电脑游戏",
     "level": 4
   },
   "逛街": {
@@ -1363,8 +1363,8 @@
   },
   "考试": {
     "english": "verb + object, noun: give/take a test; test",
-    "chinese": "考试",
     "pinyin": "kǎoshì",
+    "chinese": "考试",
     "level": 6
   },
   "以后": {
@@ -1435,8 +1435,8 @@
   },
   "下个": {
     "english": "adjective, pronoun: the next one",
-    "chinese": "下个",
     "pinyin": "xià ge",
+    "chinese": "下个",
     "level": 6
   },
   "下": {
@@ -1453,8 +1453,8 @@
   },
   "文": {
     "english": "noun: language; script; written language",
-    "chinese": "文",
     "pinyin": "wén",
+    "chinese": "文",
     "level": 6
   },
   "帮": {
@@ -1539,13 +1539,13 @@
     "english": "noun: word; speech",
     "pinyin": "huà",
     "chinese": "话",
-    "level": 7
+    "level": 6
   },
   "上个": {
     "english": "adjective, pronoun: the last one",
-    "pinyin": "shàng ge",
+    "pinyin": "shànggè",
     "chinese": "上个",
-    "level": 7
+    "level": 6
   },
   "复习": {
     "english": "verb: to review",
@@ -1887,5 +1887,296 @@
     "pinyin": "zhù nǐ shēngrì kuàilè",
     "english": "Happy birthday!",
     "level": 3
+  },
+  "分": { "chinese": "分", "pinyin": "fēn", "english": "minute", "level": 3 },
+  "累": { "chinese": "累", "pinyin": "lèi", "english": "tired", "level": 3 },
+  "看书": {
+    "chinese": "看书",
+    "pinyin": "kàn shū",
+    "english": "to read",
+    "level": 4
+  },
+  "做功课": {
+    "chinese": "做功课",
+    "pinyin": "zuò gōngkè",
+    "english": "to do homework",
+    "level": 4
+  },
+  "打篮球": {
+    "chinese": "打篮球",
+    "pinyin": "dǎ lánqiú",
+    "english": "play basketball",
+    "level": 4
+  },
+  "打网球": {
+    "chinese": "打网球",
+    "pinyin": "dǎ wǎngqiú",
+    "english": "play tennis",
+    "level": 4
+  },
+  "弹钢琴": {
+    "chinese": "弹钢琴",
+    "pinyin": "tán gāngqín",
+    "english": "to play piano",
+    "level": 4
+  },
+  "打乒乓球": {
+    "chinese": "打乒乓球",
+    "pinyin": "dǎ pīngpāng qiú",
+    "english": "to play pingpong",
+    "level": 4
+  },
+  "电脑": {
+    "english": "computer",
+    "pinyin": "diànnǎo",
+    "chinese": "电脑",
+    "level": 4
+  },
+  "游泳": {
+    "chinese": "游泳",
+    "pinyin": "yóu yǒng",
+    "english": "to swim",
+    "level": 4
+  },
+  "跑步": {
+    "chinese": "跑步",
+    "pinyin": "pǎo bù",
+    "english": "to run, to jog",
+    "level": 4
+  },
+  "滑雪": {
+    "chinese": "滑雪",
+    "pinyin": "huá xuě",
+    "english": "to ski",
+    "level": 4
+  },
+  "去朋友的家玩": {
+    "chinese": "去朋友的家玩",
+    "pinyin": "qù péngyou de jiā wán",
+    "english": "to go to a friend's house",
+    "level": 4
+  },
+  "上网聊天": {
+    "chinese": "上网聊天",
+    "pinyin": "shàng wǎng liáotiān",
+    "english": "to chat on internet",
+    "level": 4
+  },
+  "聊天": {
+    "chinese": "聊天",
+    "pinyin": "liáotiān",
+    "english": "to chat",
+    "level": 4
+  },
+  "上网": {
+    "chinese": "上网",
+    "pinyin": "shàng wǎng",
+    "english": "to go online",
+    "level": 4
+  },
+  "牛奶": {
+    "chinese": "牛奶",
+    "pinyin": "niúnǎi",
+    "english": "milk",
+    "level": 5
+  },
+  "果汁": {
+    "chinese": "果汁",
+    "pinyin": "guǒzhī",
+    "english": "fruit juice",
+    "level": 5
+  },
+  "水果": {
+    "chinese": "水果",
+    "pinyin": "shuǐguǒ",
+    "english": "fruit",
+    "level": 5
+  },
+  "好玩": {
+    "chinese": "好玩",
+    "pinyin": "hǎowán",
+    "english": "fun, to be fun  (adjective)",
+    "level": 5
+  },
+  "放假": {
+    "chinese": "放假",
+    "pinyin": "fàngjià",
+    "english": "to get out on vacation",
+    "level": 5
+  },
+  "放假的时候": {
+    "chinese": "放假的时候",
+    "pinyin": "fàngjià de shíhòu",
+    "english": "during vacation, while on vacation",
+    "level": 5
+  },
+  "新年快乐": {
+    "chinese": "新年快乐",
+    "pinyin": "xīnnián kuàilè",
+    "english": "Happy New Year",
+    "level": 5
+  },
+  "小考": {
+    "chinese": "小考",
+    "pinyin": "xiǎokǎo",
+    "english": "quiz",
+    "level": 5
+  },
+  "手机": {
+    "chinese": "手机",
+    "pinyin": "shǒujī",
+    "english": "cell phone",
+    "level": 6
+  },
+  "汉语": {
+    "chinese": "汉语",
+    "pinyin": "hànyǔ",
+    "english": "Chinese language (same as 中文)",
+    "level": 6
+  },
+  "中国话": {
+    "chinese": "中国话",
+    "pinyin": "zhōngguóhuà",
+    "english": "Chinese language (spoken)",
+    "level": 6
+  },
+  "普通话": {
+    "chinese": "普通话",
+    "pinyin": "pǔtónghuà",
+    "english": "Mandarin (used in PRC) (lit. “common speech”)",
+    "level": 6
+  },
+  "国语": {
+    "chinese": "国语",
+    "pinyin": "guóyǔ",
+    "english": "Mandarin (used in Taiwan) (lit. “national language”)",
+    "level": 6
+  },
+  "法文/法语": {
+    "chinese": "法文/法语",
+    "pinyin": "fǎwén/fǎyǔ",
+    "english": "French language",
+    "level": 6
+  },
+  "西班牙文/西班牙语": {
+    "chinese": "西班牙文/西班牙语",
+    "pinyin": "xībānyáwén/yǔ",
+    "english": "Spanish language",
+    "level": 6
+  },
+  "日文/日语": {
+    "chinese": "日文/日语",
+    "pinyin": "rìwén/yǔ",
+    "english": "Japanese language",
+    "level": 6
+  },
+  "英文/英语": {
+    "chinese": "英文/英语",
+    "pinyin": "yīngwén/yǔ",
+    "english": "English language",
+    "level": 6
+  },
+  "语": { "chinese": "语", "pinyin": "yǔ", "english": "language", "level": 6 },
+  "前天": {
+    "chinese": "前天",
+    "pinyin": "qiántiān",
+    "english": "day before yesterday",
+    "level": 6
+  },
+  "后天": {
+    "chinese": "后天",
+    "pinyin": "hòutiān",
+    "english": "day after tomorrow",
+    "level": 6
+  },
+  "去年": {
+    "chinese": "去年",
+    "pinyin": "qùnián",
+    "english": "last  year",
+    "level": 6
+  },
+  "明年": {
+    "chinese": "明年",
+    "pinyin": "míngnián",
+    "english": "next year",
+    "level": 6
+  },
+  "前年": {
+    "chinese": "前年",
+    "pinyin": "qiánnián",
+    "english": "year before last",
+    "level": 6
+  },
+  "后年": {
+    "chinese": "后年",
+    "pinyin": "hòunián",
+    "english": "year after next",
+    "level": 6
+  },
+  "本": {
+    "english": "measure word: for books",
+    "pinyin": "běn",
+    "chinese": "本",
+    "level": 7
+  },
+  "笔记本": {
+    "chinese": "笔记本",
+    "pinyin": "bǐjìběn",
+    "english": "notebook; laptop",
+    "level": 7
+  },
+  "字典/词典": {
+    "chinese": "字典/词典",
+    "pinyin": "zìdiǎn/cídiǎn",
+    "english": "dictionary",
+    "level": 7
+  },
+  "打字": {
+    "chinese": "打字",
+    "pinyin": "dǎ zì",
+    "english": "to type",
+    "level": 7
+  },
+  "文化": {
+    "chinese": "文化",
+    "pinyin": "wénhuà",
+    "english": "culture",
+    "level": 7
+  },
+  "历史": {
+    "chinese": "历史",
+    "pinyin": "lìshǐ",
+    "english": "history",
+    "level": 7
+  },
+  "练习册/练习本": {
+    "chinese": "练习册/练习本",
+    "pinyin": "liànxícé/liànxíběn",
+    "english": "workbook",
+    "level": 7
+  },
+  "查": {
+    "chinese": "查",
+    "pinyin": "chá",
+    "english": "to look something up (in a dictionary)",
+    "level": 7
+  },
+  "滑鼠/鼠标": {
+    "chinese": "滑鼠/鼠标",
+    "pinyin": "huáshǔ/shǔbiāo",
+    "english": "(computer) mouse",
+    "level": 7
+  },
+  "生活": {
+    "chinese": "生活",
+    "pinyin": "shēnghuó",
+    "english": "to live; life",
+    "level": 7
+  },
+  "视频": {
+    "chinese": "视频",
+    "pinyin": "shìpín",
+    "english": "video",
+    "level": 7
   }
 }
