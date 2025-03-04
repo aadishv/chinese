@@ -1,0 +1,86 @@
+[
+  {
+    "chinese": "学校",
+    "pinyin": "xuéxiào",
+    "english": "school",
+    "level": 2
+  },
+  {
+    "chinese": "小学",
+    "pinyin": "xiǎoxué",
+    "english": "elementary school",
+    "level": 2
+  },
+  {
+    "chinese": "中学, 初中",
+    "pinyin": "zhōngxué, chūzhōng",
+    "english": "middle school",
+    "level": 2
+  },
+  {
+    "chinese": "中学，高中",
+    "pinyin": "zhōngxué, gāozhōng",
+    "english": "high school",
+    "level": 2
+  },
+  {
+    "chinese": "大学",
+    "pinyin": "dàxué",
+    "english": "college, university",
+    "level": 2
+  },
+  {
+    "chinese": "小学生",
+    "pinyin": "xiǎoxuésheng",
+    "english": "elementary school student",
+    "level": 2
+  },
+  {
+    "chinese": "中学生, 初中生",
+    "pinyin": "zhōngxuéshēng, chūzhōngshēng",
+    "english": "middle school student",
+    "level": 2
+  },
+  {
+    "chinese": "中学生，高中生",
+    "pinyin": "zhōngxuéshēng, gāozhōngshēng",
+    "english": "high school student",
+    "level": 2
+  },
+  {
+    "chinese": "大学生",
+    "pinyin": "dàxuéshēng",
+    "english": "college student",
+    "level": 2
+  },
+  {
+    "chinese": "带孩子",
+    "pinyin": "dài háizi",
+    "english": "raises the kids",
+    "level": 2
+  },
+  {
+    "chinese": "经理",
+    "pinyin": "jīnglǐ",
+    "english": "manager",
+    "level": 2
+  },
+  {
+    "chinese": "商人",
+    "pinyin": "shāngrén",
+    "english": "business person",
+    "level": 2
+  },
+  {
+    "chinese": "工程师",
+    "pinyin": "gōngchéngshī",
+    "english": "engineer",
+    "level": 2
+  },
+  {
+    "chinese": "护士",
+    "pinyin": "hùshi",
+    "english": "nurse",
+    "level": 2
+  }
+]

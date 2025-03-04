@@ -1,0 +1,265 @@
+[
+  {
+    "english": "verb + object: to talk",
+    "pinyin": "shuōhuà",
+    "chinese": "说话",
+    "level": 7
+  },
+  {
+    "english": "noun: word; speech",
+    "pinyin": "huà",
+    "chinese": "话",
+    "level": 7
+  },
+  {
+    "english": "adjective, pronoun: the last one",
+    "pinyin": "shàng ge",
+    "chinese": "上个",
+    "level": 7
+  },
+  {
+    "english": "particle: used in the pattern VOV得[adjective] to describe how one did on something",
+    "pinyin": "de",
+    "chinese": "得",
+    "level": 7
+  },
+  {
+    "english": "verb: to review",
+    "pinyin": "fùxí",
+    "chinese": "复习",
+    "level": 7
+  },
+  { "english": "verb: to write", "pinyin": "xiě", "chinese": "写", "level": 7 },
+  { "english": "noun: character", "pinyin": "zì", "chinese": "字", "level": 7 },
+  {
+    "english": "adjective: slow",
+    "pinyin": "màn",
+    "chinese": "慢",
+    "level": 7
+  },
+  {
+    "english": "measure word: for long, thin, stiff objects",
+    "pinyin": "zhī",
+    "chinese": "枝",
+    "level": 7
+  },
+  { "english": "noun: pen", "pinyin": "bǐ", "chinese": "笔", "level": 7 },
+  {
+    "english": "measure word: for flat objects",
+    "pinyin": "zhāng",
+    "chinese": "张",
+    "level": 7
+  },
+  { "english": "noun: paper", "pinyin": "zhǐ", "chinese": "纸", "level": 7 },
+  {
+    "english": "verb: to teach",
+    "pinyin": "jiāo",
+    "chinese": "教",
+    "level": 7
+  },
+  {
+    "english": "question pronoun: how; how come",
+    "pinyin": "zěnme",
+    "chinese": "怎么",
+    "level": 7
+  },
+  {
+    "english": "verb: to understand",
+    "pinyin": "dǒng",
+    "chinese": "懂",
+    "level": 7
+  },
+  {
+    "english": "adverb: really",
+    "pinyin": "zhēn",
+    "chinese": "真",
+    "level": 7
+  },
+  {
+    "english": "question pronoun, interjection: where; (as an interjection) modestly dismisses compliments",
+    "pinyin": "nǎli",
+    "chinese": "哪里",
+    "level": 7
+  },
+  {
+    "english": "verb: to preview",
+    "pinyin": "yùxí",
+    "chinese": "预习",
+    "level": 7
+  },
+  {
+    "english": "verb: to study; to learn",
+    "pinyin": "xué",
+    "chinese": "学",
+    "level": 7
+  },
+  {
+    "english": "prefix: for ordinal numbers",
+    "pinyin": "dì",
+    "chinese": "第",
+    "level": 7
+  },
+  {
+    "english": "noun: grammar",
+    "pinyin": "yǔfǎ",
+    "chinese": "语法",
+    "level": 7
+  },
+  {
+    "english": "adjective: easy",
+    "pinyin": "róngyì",
+    "chinese": "容易",
+    "level": 7
+  },
+  {
+    "english": "noun: new words; vocabulary",
+    "pinyin": "shēngcí",
+    "chinese": "生词",
+    "level": 7
+  },
+  {
+    "english": "adjective: many; much",
+    "pinyin": "duō",
+    "chinese": "多",
+    "level": 7
+  },
+  {
+    "english": "noun: Chinese characters",
+    "pinyin": "hànzì",
+    "chinese": "汉字",
+    "level": 7
+  },
+  {
+    "english": "adjective: difficult",
+    "pinyin": "nán",
+    "chinese": "难",
+    "level": 7
+  },
+  {
+    "english": "adverb: usually",
+    "pinyin": "píngcháng",
+    "chinese": "平常",
+    "level": 7
+  },
+  {
+    "english": "adjective: early",
+    "pinyin": "zǎo",
+    "chinese": "早",
+    "level": 7
+  },
+  {
+    "english": "pronoun: so; this (late, etc.)",
+    "pinyin": "zhème",
+    "chinese": "这么",
+    "level": 7
+  },
+  {
+    "english": "adjective: late",
+    "pinyin": "wǎn",
+    "chinese": "晚",
+    "level": 7
+  },
+  {
+    "english": "time: morning",
+    "pinyin": "zǎoshang",
+    "chinese": "早上",
+    "level": 7
+  },
+  {
+    "english": "noun: homework; schoolwork",
+    "pinyin": "gōngkè",
+    "chinese": "功课",
+    "level": 7
+  },
+  {
+    "english": "pronoun: everybody",
+    "pinyin": "dàjiā",
+    "chinese": "大家",
+    "level": 7
+  },
+  {
+    "english": "verb + object: to start/go to/be in class",
+    "pinyin": "shàngkè",
+    "chinese": "上课",
+    "level": 7
+  },
+  {
+    "english": "verb, noun: to begin; beginning",
+    "pinyin": "kāishǐ",
+    "chinese": "开始",
+    "level": 7
+  },
+  {
+    "english": "verb: to read aloud",
+    "pinyin": "niàn",
+    "chinese": "念",
+    "level": 7
+  },
+  {
+    "english": "noun: text of a lesson",
+    "pinyin": "kèwén",
+    "chinese": "课文",
+    "level": 7
+  },
+  {
+    "english": "noun, verb + object: sound recording; to record sound",
+    "pinyin": "lùyīn",
+    "chinese": "录音",
+    "level": 7
+  },
+  {
+    "english": "verb: to study; to learn",
+    "pinyin": "xuéxí",
+    "chinese": "学习",
+    "level": 7
+  },
+  { "english": "adjective: cool", "pinyin": "kù", "chinese": "酷", "level": 7 },
+  {
+    "english": "noun: pencil",
+    "pinyin": "qiānbǐ",
+    "chinese": "铅笔",
+    "level": 7
+  },
+  {
+    "english": "noun: fountain pen",
+    "pinyin": "gāngbǐ",
+    "chinese": "钢笔",
+    "level": 7
+  },
+  {
+    "english": "noun: writing brush",
+    "pinyin": "máobǐ",
+    "chinese": "毛笔",
+    "level": 7
+  },
+  {
+    "english": "noun: ballpoint pen",
+    "pinyin": "yuánzhūbǐ",
+    "chinese": "圆珠笔",
+    "level": 7
+  },
+  {
+    "english": "noun: notebook",
+    "pinyin": "běnzi",
+    "chinese": "本子",
+    "level": 7
+  },
+  {
+    "english": "noun: exercise book",
+    "pinyin": "liànxíběn",
+    "chinese": "练习本",
+    "level": 7
+  },
+  {
+    "english": "noun: textbook",
+    "pinyin": "kèběn",
+    "chinese": "课本",
+    "level": 7
+  },
+  {
+    "english": "noun: dictionary",
+    "pinyin": "zìdiǎn",
+    "chinese": "字典",
+    "level": 7
+  }
+]

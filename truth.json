@@ -1,0 +1,1891 @@
+{
+  "你": {
+    "english": "pronoun: you",
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "level": 1
+  },
+  "好": {
+    "english": "adjective: good; okay",
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "level": 1
+  },
+  "请": {
+    "english": "verb: please (polite); to treat or invite someone",
+    "chinese": "请",
+    "pinyin": "qǐng",
+    "level": 1
+  },
+  "问": {
+    "english": "verb: ask",
+    "chinese": "问",
+    "pinyin": "wèn",
+    "level": 1
+  },
+  "贵": {
+    "english": "adjective: honorable; expensive",
+    "chinese": "贵",
+    "pinyin": "guì",
+    "level": 1
+  },
+  "姓": {
+    "english": "verb, noun: surname is...; surname",
+    "chinese": "姓",
+    "pinyin": "xìng",
+    "level": 1
+  },
+  "我": {
+    "english": "pronoun: I; me",
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "level": 1
+  },
+  "呢": {
+    "english": "question particle: how about...?",
+    "chinese": "呢",
+    "pinyin": "ne",
+    "level": 1
+  },
+  "小姐": {
+    "english": "noun: Miss; young lady",
+    "chinese": "小姐",
+    "pinyin": "xiǎojie",
+    "level": 1
+  },
+  "叫": {
+    "english": "verb: to be called; to call",
+    "chinese": "叫",
+    "pinyin": "jiào",
+    "level": 1
+  },
+  "什么": {
+    "english": "question pronoun: what",
+    "chinese": "什么",
+    "pinyin": "shénme",
+    "level": 1
+  },
+  "名字": {
+    "english": "noun: name",
+    "chinese": "名字",
+    "pinyin": "míngzi",
+    "level": 1
+  },
+  "先生": {
+    "english": "noun: Mr.; husband; teacher",
+    "chinese": "先生",
+    "pinyin": "xiānsheng",
+    "level": 1
+  },
+  "是": {
+    "english": "verb: to be",
+    "chinese": "是",
+    "pinyin": "shì",
+    "level": 1
+  },
+  "老师": {
+    "english": "noun: teacher",
+    "chinese": "老师",
+    "pinyin": "lǎoshī",
+    "level": 1
+  },
+  "吗": {
+    "english": "question particle: yes/no question",
+    "chinese": "吗",
+    "pinyin": "ma",
+    "level": 1
+  },
+  "不": {
+    "english": "adverb: not; no",
+    "chinese": "不",
+    "pinyin": "bù",
+    "level": 1
+  },
+  "学生": {
+    "english": "noun: student",
+    "chinese": "学生",
+    "pinyin": "xuésheng",
+    "level": 1
+  },
+  "也": {
+    "english": "adverb: too; also",
+    "chinese": "也",
+    "pinyin": "yě",
+    "level": 1
+  },
+  "人": {
+    "english": "noun: people; person",
+    "chinese": "人",
+    "pinyin": "rén",
+    "level": 1
+  },
+  "中国": {
+    "english": "proper noun: China",
+    "chinese": "中国",
+    "pinyin": "zhōngguó",
+    "level": 1
+  },
+  "北京": {
+    "english": "proper noun: Beijing",
+    "chinese": "北京",
+    "pinyin": "běijīng",
+    "level": 1
+  },
+  "美国": {
+    "english": "proper noun: America",
+    "chinese": "美国",
+    "pinyin": "měiguó",
+    "level": 1
+  },
+  "纽约": {
+    "english": "proper noun: New York",
+    "chinese": "纽约",
+    "pinyin": "niǔyuē",
+    "level": 1
+  },
+  "英国": {
+    "english": "proper noun: Britain; England",
+    "pinyin": "yīngguó",
+    "chinese": "英国",
+    "level": 1
+  },
+  "法国": {
+    "english": "proper noun: France",
+    "pinyin": "fǎguó",
+    "chinese": "法国",
+    "level": 1
+  },
+  "德国": {
+    "english": "proper noun: Germany",
+    "chinese": "德国",
+    "pinyin": "déguó",
+    "level": 1
+  },
+  "日本": {
+    "english": "proper noun: Japan",
+    "pinyin": "rìběn",
+    "chinese": "日本",
+    "level": 1
+  },
+  "韩国": {
+    "english": "proper noun: South Korea",
+    "pinyin": "hánguó",
+    "chinese": "韩国",
+    "level": 1
+  },
+  "加拿大": {
+    "english": "proper noun: Canada",
+    "pinyin": "jiānádà",
+    "chinese": "加拿大",
+    "level": 1
+  },
+  "墨西哥": {
+    "english": "proper noun: Mexico",
+    "pinyin": "mòxīgē",
+    "chinese": "墨西哥",
+    "level": 1
+  },
+  "印度": {
+    "english": "proper noun: India",
+    "pinyin": "yìndù",
+    "chinese": "印度",
+    "level": 1
+  },
+  "越南": {
+    "english": "proper noun: Vietnam",
+    "chinese": "越南",
+    "pinyin": "yuènán",
+    "level": 1
+  },
+  "加州": {
+    "english": "proper noun: California",
+    "chinese": "加州",
+    "pinyin": "jiāzhōu",
+    "level": 1
+  },
+  "夏威夷": {
+    "english": "proper noun: Hawaii",
+    "chinese": "夏威夷",
+    "pinyin": "xiàwēiyí",
+    "level": 1
+  },
+  "上海": {
+    "english": "proper noun: Shanghai",
+    "chinese": "上海",
+    "pinyin": "shànghǎi",
+    "level": 1
+  },
+  "那": {
+    "english": "pronoun: that",
+    "pinyin": "nà",
+    "chinese": "那",
+    "level": 2
+  },
+  "的": {
+    "english": "particle: a possessive or descriptive particle",
+    "chinese": "的",
+    "pinyin": "de",
+    "level": 2
+  },
+  "照片": {
+    "english": "noun: picture; photo",
+    "chinese": "照片",
+    "pinyin": "zhàopiàn",
+    "level": 2
+  },
+  "这": {
+    "english": "pronoun: this",
+    "chinese": "这",
+    "pinyin": "zhè",
+    "level": 2
+  },
+  "爸爸": {
+    "english": "noun: father; dad",
+    "chinese": "爸爸",
+    "pinyin": "bàba",
+    "level": 2
+  },
+  "妈妈": {
+    "english": "noun: mother; mom",
+    "chinese": "妈妈",
+    "pinyin": "māma",
+    "level": 2
+  },
+  "个": {
+    "english": "measure word: (measure word for many common everyday objects)",
+    "chinese": "个",
+    "pinyin": "ge",
+    "level": 2
+  },
+  "女": {
+    "english": "adjective: female",
+    "chinese": "女",
+    "pinyin": "nǚ",
+    "level": 2
+  },
+  "孩子": {
+    "english": "noun: child",
+    "chinese": "孩子",
+    "pinyin": "háizi",
+    "level": 2
+  },
+  "谁": {
+    "english": "question pronoun: who",
+    "chinese": "谁",
+    "pinyin": "sheí",
+    "level": 2
+  },
+  "她": {
+    "english": "pronoun: she; her",
+    "chinese": "她",
+    "pinyin": "tā",
+    "level": 2
+  },
+  "姐姐": {
+    "english": "noun: older sister",
+    "chinese": "姐姐",
+    "pinyin": "jiějie",
+    "level": 2
+  },
+  "男": {
+    "english": "adjective: male",
+    "chinese": "男",
+    "pinyin": "nán",
+    "level": 2
+  },
+  "弟弟": {
+    "english": "noun: younger brother",
+    "chinese": "弟弟",
+    "pinyin": "dìdi",
+    "level": 2
+  },
+  "他": {
+    "english": "pronoun: he; him",
+    "chinese": "他",
+    "pinyin": "tā",
+    "level": 2
+  },
+  "大哥": {
+    "english": "noun: oldest brother",
+    "chinese": "大哥",
+    "pinyin": "dàgē",
+    "level": 2
+  },
+  "儿子": {
+    "english": "noun: son",
+    "chinese": "儿子",
+    "pinyin": "érzi",
+    "level": 2
+  },
+  "有": {
+    "english": "verb: to have; there is",
+    "chinese": "有",
+    "pinyin": "yǒu",
+    "level": 2
+  },
+  "女儿": {
+    "english": "noun: daughter",
+    "chinese": "女儿",
+    "pinyin": "nǚ'ér",
+    "level": 2
+  },
+  "没": {
+    "english": "adverb: not; have not",
+    "chinese": "没",
+    "pinyin": "méi",
+    "level": 2
+  },
+  "高": {
+    "english": "adjective: tall; high",
+    "chinese": "高",
+    "pinyin": "gāo",
+    "level": 2
+  },
+  "家": {
+    "english": "noun: family; home",
+    "chinese": "家",
+    "pinyin": "jiā",
+    "level": 2
+  },
+  "几": {
+    "english": "numeral, question pronoun: how many; some",
+    "chinese": "几",
+    "pinyin": "jǐ",
+    "level": 2
+  },
+  "口": {
+    "english": "measure word: for number of family members",
+    "chinese": "口",
+    "pinyin": "kǒu",
+    "level": 2
+  },
+  "哥哥": {
+    "english": "noun: older brother",
+    "pinyin": "gēge",
+    "chinese": "哥哥",
+    "level": 2
+  },
+  "两": {
+    "english": "numeral: two; a couple of",
+    "chinese": "两",
+    "pinyin": "liǎng",
+    "level": 2
+  },
+  "妹妹": {
+    "english": "noun: younger sister",
+    "pinyin": "mèimei",
+    "chinese": "妹妹",
+    "level": 2
+  },
+  "和": {
+    "english": "conjunction: and",
+    "chinese": "和",
+    "pinyin": "hé",
+    "level": 2
+  },
+  "大姐": {
+    "english": "noun: oldest sister",
+    "chinese": "大姐",
+    "pinyin": "dàjiě",
+    "level": 2
+  },
+  "二姐": {
+    "english": "noun: second oldest sister",
+    "chinese": "二姐",
+    "pinyin": "èrjiě",
+    "level": 2
+  },
+  "做": {
+    "english": "verb: to do",
+    "chinese": "做",
+    "pinyin": "zuò",
+    "level": 2
+  },
+  "工作": {
+    "english": "noun, verb: job; to work",
+    "chinese": "工作",
+    "pinyin": "gōngzuò",
+    "level": 2
+  },
+  "律师": {
+    "english": "noun: lawyer",
+    "chinese": "律师",
+    "pinyin": "lǜshī",
+    "level": 2
+  },
+  "英文": {
+    "english": "noun: English (language)",
+    "chinese": "英文",
+    "pinyin": "yīngwén",
+    "level": 2
+  },
+  "都": {
+    "english": "adverb: all",
+    "chinese": "都",
+    "pinyin": "dōu",
+    "level": 2
+  },
+  "大学生": {
+    "english": "noun: college student",
+    "pinyin": "dàxuéshēng",
+    "chinese": "大学生",
+    "level": 2
+  },
+  "大学": {
+    "english": "noun: university; college",
+    "pinyin": "dàxué",
+    "chinese": "大学",
+    "level": 2
+  },
+  "医生": {
+    "english": "noun: doctor",
+    "chinese": "医生",
+    "pinyin": "yīshēng",
+    "level": 2
+  },
+  "商人": {
+    "english": "noun: business person",
+    "pinyin": "shāngrén",
+    "chinese": "商人",
+    "level": 2
+  },
+  "军人": {
+    "english": "noun: soldier; military officer",
+    "chinese": "军人",
+    "pinyin": "jūnrén",
+    "level": 2
+  },
+  "教授": {
+    "english": "noun: professor",
+    "chinese": "教授",
+    "pinyin": "jiàoshòu",
+    "level": 2
+  },
+  "经理": {
+    "english": "noun: manager",
+    "pinyin": "jīnglǐ",
+    "chinese": "经理",
+    "level": 2
+  },
+  "工人": {
+    "english": "noun: worker",
+    "chinese": "工人",
+    "pinyin": "gōngrén",
+    "level": 2
+  },
+  "工程师": {
+    "english": "noun: engineer",
+    "pinyin": "gōngchéngshī",
+    "chinese": "工程师",
+    "level": 2
+  },
+  "农民": {
+    "english": "noun: peasant",
+    "chinese": "农民",
+    "pinyin": "nóngmín",
+    "level": 2
+  },
+  "护士": {
+    "english": "noun: nurse",
+    "pinyin": "hùshi",
+    "chinese": "护士",
+    "level": 2
+  },
+  "九月": {
+    "english": "noun: September",
+    "chinese": "九月",
+    "pinyin": "jiǔyuè",
+    "level": 3
+  },
+  "月": {
+    "english": "noun: month",
+    "pinyin": "yuè",
+    "chinese": "月",
+    "level": 3
+  },
+  "十二": {
+    "english": "numeral: twelve",
+    "chinese": "十二",
+    "pinyin": "shí'èr",
+    "level": 3
+  },
+  "号": {
+    "english": "measure word: for day of the month",
+    "chinese": "号",
+    "pinyin": "hào",
+    "level": 3
+  },
+  "星期": {
+    "english": "measure word, noun: day of the week; week",
+    "pinyin": "xīngqī",
+    "chinese": "星期",
+    "level": 3
+  },
+  "星期四": {
+    "english": "noun: Thursday",
+    "chinese": "星期四",
+    "pinyin": "xīngqīsì",
+    "level": 3
+  },
+  "天": {
+    "english": "noun: day",
+    "chinese": "天",
+    "pinyin": "tiān",
+    "level": 3
+  },
+  "生日": {
+    "english": "noun: birthday",
+    "chinese": "生日",
+    "pinyin": "shēngri",
+    "level": 3
+  },
+  "生": {
+    "english": "verb: to give birth to; to be born",
+    "chinese": "生",
+    "pinyin": "shēng",
+    "level": 3
+  },
+  "日": {
+    "english": "noun: sun; day",
+    "chinese": "日",
+    "pinyin": "rì",
+    "level": 3
+  },
+  "今年": {
+    "english": "time: this year",
+    "chinese": "今年",
+    "pinyin": "jīnnián",
+    "level": 3
+  },
+  "年": {
+    "english": "noun: year",
+    "chinese": "年",
+    "pinyin": "nián",
+    "level": 3
+  },
+  "多": {
+    "english": "adjective, question pronoun: many/much; how many/much",
+    "pinyin": "duō",
+    "chinese": "多",
+    "level": 3
+  },
+  "大": {
+    "english": "adjective: big; old",
+    "chinese": "大",
+    "pinyin": "dà",
+    "level": 3
+  },
+  "十八": {
+    "english": "numeral: eighteen",
+    "chinese": "十八",
+    "pinyin": "shíbā",
+    "level": 3
+  },
+  "岁": {
+    "english": "noun: year (of age)",
+    "chinese": "岁",
+    "pinyin": "suì",
+    "level": 3
+  },
+  "吃": {
+    "english": "verb: to eat",
+    "chinese": "吃",
+    "pinyin": "chī",
+    "level": 3
+  },
+  "饭": {
+    "english": "noun: meal; (cooked) rice",
+    "chinese": "饭",
+    "pinyin": "fàn",
+    "level": 3
+  },
+  "怎么样": {
+    "english": "question pronoun: how is that?",
+    "chinese": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "level": 3
+  },
+  "太...了": {
+    "english": "adverb: too ...; extremely ...",
+    "chinese": "太...了",
+    "pinyin": "tài...le",
+    "level": 3
+  },
+  "谢谢": {
+    "english": "verb: to thank",
+    "chinese": "谢谢",
+    "pinyin": "xièxie",
+    "level": 3
+  },
+  "喜欢": {
+    "english": "verb: to like",
+    "chinese": "喜欢",
+    "pinyin": "xǐhuan",
+    "level": 3
+  },
+  "菜": {
+    "english": "noun: dishes; cuisine",
+    "chinese": "菜",
+    "pinyin": "cài",
+    "level": 3
+  },
+  "还是": {
+    "english": "conjunction: or",
+    "chinese": "还是",
+    "pinyin": "háishi",
+    "level": 3
+  },
+  "可是": {
+    "english": "conjunction: but",
+    "chinese": "可是",
+    "pinyin": "kěshì",
+    "level": 3
+  },
+  "我们": {
+    "english": "pronoun: we; us",
+    "chinese": "我们",
+    "pinyin": "wǒmen",
+    "level": 3
+  },
+  "点": {
+    "english": "measure word: o'clock; point",
+    "chinese": "点",
+    "pinyin": "diǎn",
+    "level": 3
+  },
+  "半": {
+    "english": "numeral: half; half an hour",
+    "chinese": "半",
+    "pinyin": "bàn",
+    "level": 3
+  },
+  "晚上": {
+    "english": "time, noun: evening; night",
+    "chinese": "晚上",
+    "pinyin": "wǎnshang",
+    "level": 3
+  },
+  "见": {
+    "english": "verb: to see",
+    "chinese": "见",
+    "pinyin": "jiàn",
+    "level": 3
+  },
+  "再见": {
+    "english": "verb: goodbye; see you again",
+    "chinese": "再见",
+    "pinyin": "zàijiàn",
+    "level": 3
+  },
+  "再": {
+    "english": "adverb: again",
+    "chinese": "再",
+    "pinyin": "zài",
+    "level": 3
+  },
+  "现在": {
+    "english": "time: now",
+    "chinese": "现在",
+    "pinyin": "xiànzài",
+    "level": 3
+  },
+  "刻": {
+    "english": "measure word: quarter (of an hour)",
+    "chinese": "刻",
+    "pinyin": "kè",
+    "level": 3
+  },
+  "事儿": {
+    "english": "noun: matter; affair; event",
+    "chinese": "事儿",
+    "pinyin": "shì(r)",
+    "level": 3
+  },
+  "今天": {
+    "english": "time: today",
+    "chinese": "今天",
+    "pinyin": "jīntiān",
+    "level": 3
+  },
+  "很": {
+    "english": "adverb: very",
+    "chinese": "很",
+    "pinyin": "hěn",
+    "level": 3
+  },
+  "忙": {
+    "english": "adjective: busy",
+    "chinese": "忙",
+    "pinyin": "máng",
+    "level": 3
+  },
+  "明天": {
+    "english": "time: tomorrow",
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "level": 3
+  },
+  "晚饭": {
+    "english": "noun: dinner",
+    "chinese": "晚饭",
+    "pinyin": "wǎnfàn",
+    "level": 3
+  },
+  "为什么": {
+    "english": "question pronoun: why",
+    "chinese": "为什么",
+    "pinyin": "wèishénme",
+    "level": 3
+  },
+  "为": {
+    "english": "preposition: for",
+    "chinese": "为",
+    "pinyin": "wèi",
+    "level": 3
+  },
+  "因为": {
+    "english": "conjunction: because",
+    "chinese": "因为",
+    "pinyin": "yīnwèi",
+    "level": 3
+  },
+  "还": {
+    "english": "adverb: also; too; as well",
+    "chinese": "还",
+    "pinyin": "hái",
+    "level": 3
+  },
+  "同学": {
+    "english": "noun: classmate",
+    "chinese": "同学",
+    "pinyin": "tóngxué",
+    "level": 3
+  },
+  "认识": {
+    "english": "verb: to recognize; to know",
+    "chinese": "认识",
+    "pinyin": "rènshi",
+    "level": 3
+  },
+  "朋友": {
+    "english": "noun: friend",
+    "chinese": "朋友",
+    "pinyin": "péngyou",
+    "level": 3
+  },
+  "新年": {
+    "english": "noun: New Year",
+    "chinese": "新年",
+    "pinyin": "xīnnián",
+    "level": 3
+  },
+  "情人节": {
+    "english": "noun: Valentine's Day",
+    "chinese": "情人节",
+    "pinyin": "qíngrénjié",
+    "level": 3
+  },
+  "母亲节": {
+    "english": "noun: Mother's Day",
+    "chinese": "母亲节",
+    "pinyin": "mǔqīnjié",
+    "level": 3
+  },
+  "父亲节": {
+    "english": "noun: Father's Day",
+    "chinese": "父亲节",
+    "pinyin": "fùqīnjié",
+    "level": 3
+  },
+  "感恩节": {
+    "english": "noun: Thanksgiving Day",
+    "chinese": "感恩节",
+    "pinyin": "gǎn'ēnjié",
+    "level": 3
+  },
+  "周末": {
+    "english": "noun: weekend",
+    "chinese": "周末",
+    "pinyin": "zhōumò",
+    "level": 4
+  },
+  "打球": {
+    "english": "verb + object: to play ball",
+    "chinese": "打球",
+    "pinyin": "dǎqiú",
+    "level": 4
+  },
+  "打": {
+    "english": "verb: to hit",
+    "chinese": "打",
+    "pinyin": "dǎ",
+    "level": 4
+  },
+  "球": {
+    "english": "noun: ball",
+    "chinese": "球",
+    "pinyin": "qiú",
+    "level": 4
+  },
+  "看": {
+    "english": "verb: to watch; to look; to read",
+    "chinese": "看",
+    "pinyin": "kàn",
+    "level": 4
+  },
+  "电视": {
+    "english": "noun: television",
+    "chinese": "电视",
+    "pinyin": "diànshì",
+    "level": 4
+  },
+  "电": {
+    "english": "noun: electricity",
+    "chinese": "电",
+    "pinyin": "diàn",
+    "level": 4
+  },
+  "视": {
+    "english": "noun: vision",
+    "chinese": "视",
+    "pinyin": "shì",
+    "level": 4
+  },
+  "唱歌儿": {
+    "english": "verb + object: to sing a song",
+    "chinese": "唱歌儿",
+    "pinyin": "chànggē(r)",
+    "level": 4
+  },
+  "唱": {
+    "english": "verb: to sing",
+    "chinese": "唱",
+    "pinyin": "chàng",
+    "level": 4
+  },
+  "歌": {
+    "english": "noun: song",
+    "chinese": "歌",
+    "pinyin": "gē",
+    "level": 4
+  },
+  "跳舞": {
+    "english": "verb + object: to dance",
+    "chinese": "跳舞",
+    "pinyin": "tiàowǔ",
+    "level": 4
+  },
+  "跳": {
+    "english": "verb: to jump",
+    "chinese": "跳",
+    "pinyin": "tiào",
+    "level": 4
+  },
+  "舞": {
+    "english": "noun: dance",
+    "chinese": "舞",
+    "pinyin": "wǔ",
+    "level": 4
+  },
+  "听": {
+    "english": "verb: to listen",
+    "chinese": "听",
+    "pinyin": "tīng",
+    "level": 4
+  },
+  "音乐": {
+    "english": "noun: music",
+    "chinese": "音乐",
+    "pinyin": "yīnyuè",
+    "level": 4
+  },
+  "书": {
+    "english": "noun: book",
+    "chinese": "书",
+    "pinyin": "shū",
+    "level": 4
+  },
+  "对": {
+    "english": "adjective: right; correct",
+    "chinese": "对",
+    "pinyin": "duì",
+    "level": 4
+  },
+  "有的": {
+    "english": "pronoun: some",
+    "chinese": "有的",
+    "pinyin": "yǒude",
+    "level": 4
+  },
+  "时候": {
+    "english": "noun: point in time; moment; duration of time",
+    "chinese": "时候",
+    "pinyin": "shíhou",
+    "level": 4
+  },
+  "电影": {
+    "english": "noun: movie",
+    "chinese": "电影",
+    "pinyin": "diànyǐng",
+    "level": 4
+  },
+  "影": {
+    "english": "noun: shadow",
+    "chinese": "影",
+    "pinyin": "yǐng",
+    "level": 4
+  },
+  "常常": {
+    "english": "adverb: often",
+    "chinese": "常常",
+    "pinyin": "chángcháng",
+    "level": 4
+  },
+  "去": {
+    "english": "verb: to go",
+    "chinese": "去",
+    "pinyin": "qù",
+    "level": 4
+  },
+  "外国": {
+    "english": "noun: foreign country",
+    "chinese": "外国",
+    "pinyin": "wàiguó",
+    "level": 4
+  },
+  "请客": {
+    "english": "verb + object: to invite; to play the host",
+    "chinese": "请客",
+    "pinyin": "qǐngkè",
+    "level": 4
+  },
+  "昨天": {
+    "english": "time: yesterday",
+    "chinese": "昨天",
+    "pinyin": "zuótiān",
+    "level": 4
+  },
+  "所以": {
+    "english": "conjunction: so",
+    "chinese": "所以",
+    "pinyin": "suǒyǐ",
+    "level": 4
+  },
+  "想": {
+    "english": "modal verb: would like to",
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "level": 4
+  },
+  "觉得": {
+    "english": "verb: to feel; to think",
+    "chinese": "觉得",
+    "pinyin": "juéde",
+    "level": 4
+  },
+  "有意思": {
+    "english": "adjective: interesting",
+    "chinese": "有意思",
+    "pinyin": "yǒu yìsi",
+    "level": 4
+  },
+  "意思": {
+    "english": "noun: meaning",
+    "chinese": "意思",
+    "pinyin": "yìsi",
+    "level": 4
+  },
+  "只": {
+    "english": "adverb: only",
+    "chinese": "只",
+    "pinyin": "zhǐ",
+    "level": 4
+  },
+  "睡觉": {
+    "english": "verb + object: to sleep",
+    "chinese": "睡觉",
+    "pinyin": "shuìjiào",
+    "level": 4
+  },
+  "算了": {
+    "english": "interjection: forget it",
+    "chinese": "算了",
+    "pinyin": "suànle",
+    "level": 4
+  },
+  "找": {
+    "english": "verb: to look for",
+    "chinese": "找",
+    "pinyin": "zhǎo",
+    "level": 4
+  },
+  "别人": {
+    "english": "noun: other people",
+    "chinese": "别人",
+    "pinyin": "biéren",
+    "level": 4
+  },
+  "别的": {
+    "english": "adjective: other",
+    "chinese": "别的",
+    "pinyin": "bié(de)",
+    "level": 4
+  },
+  "画画儿": {
+    "english": "verb + object: to draw (a picture); to paint (a picture)",
+    "chinese": "画画儿",
+    "pinyin": "huàhuàr",
+    "level": 4
+  },
+  "下棋": {
+    "english": "verb + object: to play chess",
+    "chinese": "下棋",
+    "pinyin": "xiàqí",
+    "level": 4
+  },
+  "上网聊天儿": {
+    "english": "verb: chat online",
+    "chinese": "上网聊天儿",
+    "pinyin": "shàngwǎng liáotiān(r)",
+    "level": 4
+  },
+  "玩电脑游戏": {
+    "english": "verb + object: to play video games",
+    "chinese": "玩电脑游戏",
+    "pinyin": "wán diànnǎo yóuxì",
+    "level": 4
+  },
+  "逛街": {
+    "english": "verb + object: to window shop",
+    "chinese": "逛街",
+    "pinyin": "guàngjiē",
+    "level": 4
+  },
+  "呀": {
+    "english": "particle: interjectory question softener",
+    "chinese": "呀",
+    "pinyin": "ya",
+    "level": 5
+  },
+  "进": {
+    "english": "verb: to enter",
+    "chinese": "进",
+    "pinyin": "jìn",
+    "level": 5
+  },
+  "快": {
+    "english": "adverb, adjective: fast; quickly",
+    "chinese": "快",
+    "pinyin": "kuài",
+    "level": 5
+  },
+  "近来": {
+    "english": "verb + component: to come in",
+    "chinese": "近来",
+    "pinyin": "jìnlái",
+    "level": 5
+  },
+  "来": {
+    "english": "verb: to come",
+    "chinese": "来",
+    "pinyin": "lái",
+    "level": 5
+  },
+  "介绍": {
+    "english": "verb: to introduce",
+    "chinese": "介绍",
+    "pinyin": "jièshào",
+    "level": 5
+  },
+  "一下": {
+    "english": "noun, measure word: once; a bit",
+    "chinese": "一下",
+    "pinyin": "yīxià",
+    "level": 5
+  },
+  "高兴": {
+    "english": "adjective: happy, pleased",
+    "chinese": "高兴",
+    "pinyin": "gāoxìng",
+    "level": 5
+  },
+  "漂亮": {
+    "english": "adjective: pretty",
+    "chinese": "漂亮",
+    "pinyin": "piàoliang",
+    "level": 5
+  },
+  "坐": {
+    "english": "verb: to sit",
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "level": 5
+  },
+  "在": {
+    "english": "preposition, verb: at; to be at (a place)",
+    "pinyin": "zài",
+    "chinese": "在",
+    "level": 5
+  },
+  "哪儿": {
+    "english": "question pronoun: where",
+    "chinese": "哪儿",
+    "pinyin": "nǎr",
+    "level": 5
+  },
+  "学校": {
+    "english": "noun: school",
+    "pinyin": "xuéxiào",
+    "chinese": "学校",
+    "level": 5
+  },
+  "喝": {
+    "english": "verb: to drink",
+    "chinese": "喝",
+    "pinyin": "hē",
+    "level": 5
+  },
+  "点儿": {
+    "english": "measure word: a little, a bit; some",
+    "chinese": "点儿",
+    "pinyin": "diǎn(r)",
+    "level": 5
+  },
+  "茶": {
+    "english": "noun: tea",
+    "chinese": "茶",
+    "pinyin": "chá",
+    "level": 5
+  },
+  "咖啡": {
+    "english": "noun: coffee",
+    "chinese": "咖啡",
+    "pinyin": "kāfēi",
+    "level": 5
+  },
+  "吧": {
+    "english": "particle: sentence-final",
+    "chinese": "吧",
+    "pinyin": "ba",
+    "level": 5
+  },
+  "要": {
+    "english": "verb, modal verb: to want; will (do in the future)",
+    "pinyin": "yào",
+    "chinese": "要",
+    "level": 5
+  },
+  "瓶": {
+    "english": "measure word, noun: for bottles; bottle",
+    "chinese": "瓶",
+    "pinyin": "píng",
+    "level": 5
+  },
+  "可乐": {
+    "english": "noun: Coke; Pepsi; cola",
+    "chinese": "可乐",
+    "pinyin": "kělè",
+    "level": 5
+  },
+  "可以": {
+    "english": "modal verb: can; may",
+    "chinese": "可以",
+    "pinyin": "kěyǐ",
+    "level": 5
+  },
+  "对不起": {
+    "english": "verb: sorry",
+    "chinese": "对不起",
+    "pinyin": "duìbuqǐ",
+    "level": 5
+  },
+  "给": {
+    "english": "verb, preposition: to give; to, for",
+    "pinyin": "gěi",
+    "chinese": "给",
+    "level": 5
+  },
+  "杯": {
+    "english": "measure word: for cup or glass",
+    "chinese": "杯",
+    "pinyin": "bēi",
+    "level": 5
+  },
+  "水": {
+    "english": "noun: water",
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "level": 5
+  },
+  "玩儿": {
+    "english": "verb: to have fun; to play",
+    "chinese": "玩儿",
+    "pinyin": "wán(r)",
+    "level": 5
+  },
+  "了": {
+    "english": "particle: for past tense",
+    "chinese": "了",
+    "pinyin": "le",
+    "level": 5
+  },
+  "图书馆": {
+    "english": "noun: library",
+    "chinese": "图书馆",
+    "pinyin": "túshūguǎn",
+    "level": 5
+  },
+  "一起": {
+    "english": "adverb: together",
+    "chinese": "一起",
+    "pinyin": "yīqǐ",
+    "level": 5
+  },
+  "聊天儿": {
+    "english": "verb + object: to chat",
+    "chinese": "聊天儿",
+    "pinyin": "liáotiān(r)",
+    "level": 5
+  },
+  "聊": {
+    "english": "verb: to chat",
+    "chinese": "聊",
+    "pinyin": "liáo",
+    "level": 5
+  },
+  "才": {
+    "english": "adverb: not until; only then",
+    "chinese": "才",
+    "pinyin": "cái",
+    "level": 5
+  },
+  "回家": {
+    "english": "verb + object: to go home",
+    "chinese": "回家",
+    "pinyin": "huíjiā",
+    "level": 5
+  },
+  "回": {
+    "english": "verb: to return",
+    "chinese": "回",
+    "pinyin": "huí",
+    "level": 5
+  },
+  "打电话": {
+    "english": "verb + object: to make a phone call",
+    "chinese": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "level": 6
+  },
+  "电话": {
+    "english": "noun: telephone",
+    "chinese": "电话",
+    "pinyin": "diànhuà",
+    "level": 6
+  },
+  "喂": {
+    "english": "interjection: (on telephone) Hello?",
+    "chinese": "喂",
+    "pinyin": "wèi",
+    "level": 6
+  },
+  "就": {
+    "english": "adverb: precisely; exactly",
+    "chinese": "就",
+    "pinyin": "jiù",
+    "level": 6
+  },
+  "您": {
+    "english": "pronoun: you (honorific for 你)",
+    "pinyin": "nín",
+    "chinese": "您",
+    "level": 1
+  },
+  "哪": {
+    "english": "question pronoun: which",
+    "chinese": "哪",
+    "pinyin": "nǎ",
+    "level": 6
+  },
+  "位": {
+    "english": "measure word: (polite) for people",
+    "chinese": "位",
+    "pinyin": "wèi",
+    "level": 6
+  },
+  "下午": {
+    "english": "time: afternoon",
+    "pinyin": "xiàwǔ",
+    "chinese": "下午",
+    "level": 3
+  },
+  "时间": {
+    "english": "noun: the general concept of time",
+    "chinese": "时间",
+    "pinyin": "shíjiān",
+    "level": 6
+  },
+  "问题": {
+    "english": "noun: question; problem",
+    "chinese": "问题",
+    "pinyin": "wèntí",
+    "level": 6
+  },
+  "开会": {
+    "english": "verb + object: to have a meeting",
+    "chinese": "开会",
+    "pinyin": "kāihuì",
+    "level": 6
+  },
+  "上午": {
+    "english": "time: later morning",
+    "pinyin": "shàngwǔ",
+    "chinese": "上午",
+    "level": 3
+  },
+  "节": {
+    "english": "measure word: for class periods",
+    "chinese": "节",
+    "pinyin": "jiē",
+    "level": 6
+  },
+  "课": {
+    "english": "noun: class; lesson",
+    "chinese": "课",
+    "pinyin": "kè",
+    "level": 6
+  },
+  "年级": {
+    "english": "noun: grade in school",
+    "chinese": "年级",
+    "pinyin": "niánjí",
+    "level": 6
+  },
+  "考试": {
+    "english": "verb + object, noun: give/take a test; test",
+    "chinese": "考试",
+    "pinyin": "kǎoshì",
+    "level": 6
+  },
+  "以后": {
+    "english": "time: after",
+    "chinese": "以后",
+    "pinyin": "yǐhòu",
+    "level": 6
+  },
+  "空儿": {
+    "english": "noun: free time",
+    "chinese": "空儿",
+    "pinyin": "kòng(r)",
+    "level": 6
+  },
+  "钥匙": {
+    "english": "conjunction: if",
+    "chinese": "钥匙",
+    "pinyin": "yàoshi",
+    "level": 6
+  },
+  "方便": {
+    "english": "adjective: convenient",
+    "chinese": "方便",
+    "pinyin": "fāngbiàn",
+    "level": 6
+  },
+  "到": {
+    "english": "verb: to go to; to arrive",
+    "chinese": "到",
+    "pinyin": "dào",
+    "level": 6
+  },
+  "办公室": {
+    "english": "noun: office",
+    "chinese": "办公室",
+    "pinyin": "bàngōngshì",
+    "level": 6
+  },
+  "行": {
+    "english": "verb: to be okay, to be alright",
+    "chinese": "行",
+    "pinyin": "xíng",
+    "level": 6
+  },
+  "等": {
+    "english": "verb: to wait; to wait for",
+    "chinese": "等",
+    "pinyin": "děng",
+    "level": 6
+  },
+  "别": {
+    "english": "adverb: don't",
+    "chinese": "别",
+    "pinyin": "bié",
+    "level": 6
+  },
+  "客气": {
+    "english": "adjective: polite",
+    "chinese": "客气",
+    "pinyin": "kèqi",
+    "level": 6
+  },
+  "长老师": {
+    "english": "proper noun: Teacher Chang",
+    "chinese": "长老师",
+    "pinyin": "zhǎng lǎoshī",
+    "level": 6
+  },
+  "下个": {
+    "english": "adjective, pronoun: the next one",
+    "chinese": "下个",
+    "pinyin": "xià ge",
+    "level": 6
+  },
+  "下": {
+    "english": "adjective: next",
+    "chinese": "下",
+    "pinyin": "xià",
+    "level": 6
+  },
+  "中文": {
+    "english": "noun: Chinese (language)",
+    "chinese": "中文",
+    "pinyin": "zhōngwén",
+    "level": 6
+  },
+  "文": {
+    "english": "noun: language; script; written language",
+    "chinese": "文",
+    "pinyin": "wén",
+    "level": 6
+  },
+  "帮": {
+    "english": "verb: to help",
+    "chinese": "帮",
+    "pinyin": "bāng",
+    "level": 6
+  },
+  "准备": {
+    "english": "verb: to prepare",
+    "chinese": "准备",
+    "pinyin": "zhǔnbèi",
+    "level": 6
+  },
+  "练习": {
+    "english": "verb: to practice",
+    "chinese": "练习",
+    "pinyin": "liànxí",
+    "level": 6
+  },
+  "说": {
+    "english": "verb: to say; to speak",
+    "chinese": "说",
+    "pinyin": "shuō",
+    "level": 6
+  },
+  "啊": {
+    "english": "particle: sentence-final exclamation",
+    "chinese": "啊",
+    "pinyin": "a",
+    "level": 6
+  },
+  "但是": {
+    "english": "conjunction: but",
+    "chinese": "但是",
+    "pinyin": "dànshì",
+    "level": 6
+  },
+  "得": {
+    "english": "adverb: must; to have to",
+    "chinese": "得",
+    "pinyin": "děi",
+    "level": 6
+  },
+  "跟": {
+    "english": "preposition: with",
+    "chinese": "跟",
+    "pinyin": "gēn",
+    "level": 6
+  },
+  "见面": {
+    "english": "verb + object: to meet with",
+    "chinese": "见面",
+    "pinyin": "jiànmiàn",
+    "level": 6
+  },
+  "面": {
+    "english": "noun: face",
+    "chinese": "面",
+    "pinyin": "miàn",
+    "level": 6
+  },
+  "回来": {
+    "english": "verb + component: to come back",
+    "chinese": "回来",
+    "pinyin": "huílai",
+    "level": 6
+  },
+  "台湾": {
+    "chinese": "台湾",
+    "pinyin": "táiwān",
+    "english": "Taiwan",
+    "level": 1
+  },
+  "说话": {
+    "english": "verb + object: to talk",
+    "pinyin": "shuōhuà",
+    "chinese": "说话",
+    "level": 7
+  },
+  "话": {
+    "english": "noun: word; speech",
+    "pinyin": "huà",
+    "chinese": "话",
+    "level": 7
+  },
+  "上个": {
+    "english": "adjective, pronoun: the last one",
+    "pinyin": "shàng ge",
+    "chinese": "上个",
+    "level": 7
+  },
+  "复习": {
+    "english": "verb: to review",
+    "pinyin": "fùxí",
+    "chinese": "复习",
+    "level": 7
+  },
+  "写": {
+    "english": "verb: to write",
+    "pinyin": "xiě",
+    "chinese": "写",
+    "level": 7
+  },
+  "字": {
+    "english": "noun: character",
+    "pinyin": "zì",
+    "chinese": "字",
+    "level": 7
+  },
+  "慢": {
+    "english": "adjective: slow",
+    "pinyin": "màn",
+    "chinese": "慢",
+    "level": 7
+  },
+  "枝": {
+    "english": "measure word: for long, thin, stiff objects",
+    "pinyin": "zhī",
+    "chinese": "枝",
+    "level": 7
+  },
+  "笔": { "english": "noun: pen", "pinyin": "bǐ", "chinese": "笔", "level": 7 },
+  "张": {
+    "english": "measure word: for flat objects",
+    "pinyin": "zhāng",
+    "chinese": "张",
+    "level": 7
+  },
+  "纸": {
+    "english": "noun: paper",
+    "pinyin": "zhǐ",
+    "chinese": "纸",
+    "level": 7
+  },
+  "教": {
+    "english": "verb: to teach",
+    "pinyin": "jiāo",
+    "chinese": "教",
+    "level": 7
+  },
+  "怎么": {
+    "english": "question pronoun: how; how come",
+    "pinyin": "zěnme",
+    "chinese": "怎么",
+    "level": 7
+  },
+  "懂": {
+    "english": "verb: to understand",
+    "pinyin": "dǒng",
+    "chinese": "懂",
+    "level": 7
+  },
+  "真": {
+    "english": "adverb: really",
+    "pinyin": "zhēn",
+    "chinese": "真",
+    "level": 7
+  },
+  "哪里": {
+    "english": "question pronoun, interjection: where; (as an interjection) modestly dismisses compliments",
+    "pinyin": "nǎli",
+    "chinese": "哪里",
+    "level": 7
+  },
+  "预习": {
+    "english": "verb: to preview",
+    "pinyin": "yùxí",
+    "chinese": "预习",
+    "level": 7
+  },
+  "学": {
+    "english": "verb: to study; to learn",
+    "pinyin": "xué",
+    "chinese": "学",
+    "level": 7
+  },
+  "第": {
+    "english": "prefix: for ordinal numbers",
+    "pinyin": "dì",
+    "chinese": "第",
+    "level": 7
+  },
+  "语法": {
+    "english": "noun: grammar",
+    "pinyin": "yǔfǎ",
+    "chinese": "语法",
+    "level": 7
+  },
+  "容易": {
+    "english": "adjective: easy",
+    "pinyin": "róngyì",
+    "chinese": "容易",
+    "level": 7
+  },
+  "生词": {
+    "english": "noun: new words; vocabulary",
+    "pinyin": "shēngcí",
+    "chinese": "生词",
+    "level": 7
+  },
+  "汉字": {
+    "english": "noun: Chinese characters",
+    "pinyin": "hànzì",
+    "chinese": "汉字",
+    "level": 7
+  },
+  "难": {
+    "english": "adjective: difficult",
+    "pinyin": "nán",
+    "chinese": "难",
+    "level": 7
+  },
+  "平常": {
+    "english": "adverb: usually",
+    "pinyin": "píngcháng",
+    "chinese": "平常",
+    "level": 7
+  },
+  "早": {
+    "english": "adjective: early",
+    "pinyin": "zǎo",
+    "chinese": "早",
+    "level": 7
+  },
+  "这么": {
+    "english": "pronoun: so; this (late, etc.)",
+    "pinyin": "zhème",
+    "chinese": "这么",
+    "level": 7
+  },
+  "晚": {
+    "english": "adjective: late",
+    "pinyin": "wǎn",
+    "chinese": "晚",
+    "level": 7
+  },
+  "早上": {
+    "english": "time: early morning",
+    "pinyin": "zǎoshang",
+    "chinese": "早上",
+    "level": 3
+  },
+  "功课": {
+    "english": "noun: homework; schoolwork",
+    "pinyin": "gōngkè",
+    "chinese": "功课",
+    "level": 7
+  },
+  "大家": {
+    "english": "pronoun: everybody",
+    "pinyin": "dàjiā",
+    "chinese": "大家",
+    "level": 7
+  },
+  "上课": {
+    "english": "verb + object: to start/go to/be in class",
+    "pinyin": "shàngkè",
+    "chinese": "上课",
+    "level": 7
+  },
+  "开始": {
+    "english": "verb, noun: to begin; beginning",
+    "pinyin": "kāishǐ",
+    "chinese": "开始",
+    "level": 7
+  },
+  "念": {
+    "english": "verb: to read aloud",
+    "pinyin": "niàn",
+    "chinese": "念",
+    "level": 7
+  },
+  "课文": {
+    "english": "noun: text of a lesson",
+    "pinyin": "kèwén",
+    "chinese": "课文",
+    "level": 7
+  },
+  "录音": {
+    "english": "noun, verb + object: sound recording; to record sound",
+    "pinyin": "lùyīn",
+    "chinese": "录音",
+    "level": 7
+  },
+  "学习": {
+    "english": "verb: to study; to learn",
+    "pinyin": "xuéxí",
+    "chinese": "学习",
+    "level": 7
+  },
+  "酷": {
+    "english": "adjective: cool",
+    "pinyin": "kù",
+    "chinese": "酷",
+    "level": 7
+  },
+  "铅笔": {
+    "english": "noun: pencil",
+    "pinyin": "qiānbǐ",
+    "chinese": "铅笔",
+    "level": 7
+  },
+  "钢笔": {
+    "english": "noun: fountain pen",
+    "pinyin": "gāngbǐ",
+    "chinese": "钢笔",
+    "level": 7
+  },
+  "毛笔": {
+    "english": "noun: writing brush",
+    "pinyin": "máobǐ",
+    "chinese": "毛笔",
+    "level": 7
+  },
+  "圆珠笔": {
+    "english": "noun: ballpoint pen",
+    "pinyin": "yuánzhūbǐ",
+    "chinese": "圆珠笔",
+    "level": 7
+  },
+  "本子": {
+    "english": "noun: notebook",
+    "pinyin": "běnzi",
+    "chinese": "本子",
+    "level": 7
+  },
+  "练习本": {
+    "english": "noun: exercise book",
+    "pinyin": "liànxíběn",
+    "chinese": "练习本",
+    "level": 7
+  },
+  "课本": {
+    "english": "noun: textbook",
+    "pinyin": "kèběn",
+    "chinese": "课本",
+    "level": 7
+  },
+  "字典": {
+    "english": "noun: dictionary",
+    "pinyin": "zìdiǎn",
+    "chinese": "字典",
+    "level": 7
+  },
+  "得...": {
+    "english": "particle: used in the pattern VOV得[adjective] to describe how one did on something",
+    "pinyin": "de",
+    "chinese": "得...",
+    "level": 7
+  },
+  "爷爷": {
+    "chinese": "爷爷",
+    "pinyin": "yéye",
+    "english": "grandfather (paternal)",
+    "level": 2
+  },
+  "奶奶": {
+    "chinese": "奶奶",
+    "pinyin": "nǎinai",
+    "english": "grandmother (paternal)",
+    "level": 2
+  },
+  "狗": { "chinese": "狗", "pinyin": "gǒu", "english": "dog", "level": 2 },
+  "猫": { "chinese": "猫", "pinyin": "māo", "english": "cat", "level": 2 },
+  "小学": {
+    "chinese": "小学",
+    "pinyin": "xiǎoxué",
+    "english": "elementary school",
+    "level": 2
+  },
+  "中学, 初中": {
+    "chinese": "中学, 初中",
+    "pinyin": "zhōngxué, chūzhōng",
+    "english": "middle school",
+    "level": 2
+  },
+  "中学，高中": {
+    "chinese": "中学，高中",
+    "pinyin": "zhōngxué, gāozhōng",
+    "english": "high school",
+    "level": 2
+  },
+  "小学生": {
+    "chinese": "小学生",
+    "pinyin": "xiǎoxuésheng",
+    "english": "elementary school student",
+    "level": 2
+  },
+  "中学生, 初中生": {
+    "chinese": "中学生, 初中生",
+    "pinyin": "zhōngxuéshēng, chūzhōngshēng",
+    "english": "middle school student",
+    "level": 2
+  },
+  "中学生，高中生": {
+    "chinese": "中学生，高中生",
+    "pinyin": "zhōngxuéshēng, gāozhōngshēng",
+    "english": "high school student",
+    "level": 2
+  },
+  "带孩子": {
+    "chinese": "带孩子",
+    "pinyin": "dài háizi",
+    "english": "raises the kids",
+    "level": 2
+  },
+  "一 二 三 四 五 六 七 八 九 十": {
+    "english": "numbers from 1 to 10",
+    "pinyin": "yī èr sān sì wǔ liù qī bā jiǔ shí",
+    "chinese": "一 二 三 四 五 六 七 八 九 十",
+    "level": 3
+  },
+  "零": { "english": "zero", "pinyin": "líng", "chinese": "零", "level": 3 },
+  "百": { "english": "hundred", "pinyin": "bǎi", "chinese": "百", "level": 3 },
+  "中午": {
+    "chinese": "中午",
+    "pinyin": "zhōngwǔ",
+    "english": "noon",
+    "level": 3
+  },
+  "钟": {
+    "chinese": "钟",
+    "pinyin": "zhōng",
+    "english": "o'clock (may be after 点 or 分)",
+    "level": 3
+  },
+  "祝你生日快乐": {
+    "chinese": "祝你生日快乐",
+    "pinyin": "zhù nǐ shēngrì kuàilè",
+    "english": "Happy birthday!",
+    "level": 3
+  }
+}

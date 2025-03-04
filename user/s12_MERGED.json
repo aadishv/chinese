@@ -1,0 +1,50 @@
+[
+  {
+    "chinese": "日本",
+    "pinyin": "rìběn",
+    "english": "Japan",
+    "level": 1
+  },
+  {
+    "chinese": "台湾",
+    "pinyin": "táiwān",
+    "english": "Taiwan",
+    "level": 1
+  },
+  {
+    "chinese": "韩国",
+    "pinyin": "hánguó",
+    "english": "Korea",
+    "level": 1
+  },
+  {
+    "chinese": "英国",
+    "pinyin": "yīngguó",
+    "english": "England, UK",
+    "level": 1
+  },
+  {
+    "chinese": "法国",
+    "pinyin": "fǎguó",
+    "english": "France",
+    "level": 1
+  },
+  {
+    "chinese": "加拿大",
+    "pinyin": "jiānádà",
+    "english": "Canada",
+    "level": 1
+  },
+  {
+    "chinese": "墨西哥",
+    "pinyin": "mòxīgē",
+    "english": "Mexico",
+    "level": 1
+  },
+  {
+    "chinese": "印度",
+    "pinyin": "yìndù",
+    "english": "India",
+    "level": 1
+  }
+]

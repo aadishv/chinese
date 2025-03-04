@@ -1,0 +1,58 @@
+[
+  {
+    "english": "numbers from 1 to 10",
+    "pinyin": "yī èr sān sì wǔ liù qī bā jiǔ shí",
+    "chinese": "一 二 三 四 五 六 七 八 九 十",
+    "level": 3
+  },
+  {
+    "english": "measure word: month of the year",
+    "pinyin": "yuè",
+    "chinese": "月",
+    "level": 3
+  },
+  {
+    "english": "measure word, noun: day of the week; week",
+    "pinyin": "xīngqī",
+    "chinese": "星期",
+    "level": 3
+  },
+  {
+    "english": "zero",
+    "pinyin": "líng",
+    "chinese": "零",
+    "level": 3
+  },
+  {
+    "english": "hundred",
+    "pinyin": "bǎi",
+    "chinese": "百",
+    "level": 3
+  },
+  {
+    "chinese": "早上",
+    "pinyin": "zǎoshàng",
+    "english": "early morning",
+    "level": 3
+  },
+  {
+    "chinese": "上午",
+    "pinyin": "shàngwǔ",
+    "english": "later morning",
+    "level": 3
+  },
+  { "chinese": "下午", "pinyin": "xiàwǔ", "english": "afternoon", "level": 3 },
+  { "chinese": "中午", "pinyin": "zhōngwǔ", "english": "noon", "level": 3 },
+  {
+    "chinese": "钟",
+    "pinyin": "zhōng",
+    "english": "o'clock (may be after 点 or 分)",
+    "level": 3
+  },
+  {
+    "chinese": "祝你生日快乐",
+    "pinyin": "zhù nǐ shēngrì kuàilè",
+    "english": "Happy birthday!",
+    "level": 3
+  }
+]

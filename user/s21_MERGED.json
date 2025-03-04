@@ -1,0 +1,28 @@
+[
+  {
+    "chinese": "哥哥",
+    "pinyin": "gēge",
+    "english": "older brother",
+    "level": 2
+  },
+  {
+    "chinese": "妹妹",
+    "pinyin": "mèimei",
+    "english": "younger sister",
+    "level": 2
+  },
+  {
+    "chinese": "爷爷",
+    "pinyin": "yéye",
+    "english": "grandfather (paternal)",
+    "level": 2
+  },
+  {
+    "chinese": "奶奶",
+    "pinyin": "nǎinai",
+    "english": "grandmother (paternal)",
+    "level": 2
+  },
+  { "chinese": "狗", "pinyin": "gǒu", "english": "dog", "level": 2 },
+  { "chinese": "猫", "pinyin": "māo", "english": "cat", "level": 2 }
+]
