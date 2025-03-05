@@ -1,4 +1,5 @@
 # This is an AI-generated CLI version of my past code (o3-mini, accessed through Zed's assistant panel, paid for by GitHub Copilot). A copy of the old code is attached at the end of the file.
+
 """
 Chinese Vocabulary Utility CLI
 
