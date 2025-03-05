@@ -1,0 +1,134 @@
+[
+  {
+    "chinese": "手机",
+    "pinyin": "shǒujī",
+    "english": "cell phone",
+    "level": 6
+  },
+  {
+    "chinese": "汉语",
+    "pinyin": "hànyǔ",
+    "english": "Chinese language (same as 中文)",
+    "level": 6
+  },
+  {
+    "chinese": "中国话",
+    "pinyin": "zhōngguóhuà",
+    "english": "Chinese language (spoken)",
+    "level": 6
+  },
+  {
+    "chinese": "普通话",
+    "pinyin": "pǔtónghuà",
+    "english": "Mandarin (used in PRC) (lit. “common speech”)",
+    "level": 6
+  },
+  {
+    "chinese": "国语",
+    "pinyin": "guóyǔ",
+    "english": "Mandarin (used in Taiwan) (lit. “national language”)",
+    "level": 6
+  },
+  {
+    "chinese": "法文/法语",
+    "pinyin": "fǎwén/fǎyǔ",
+    "english": "French language",
+    "level": 6
+  },
+  {
+    "chinese": "西班牙文/西班牙语",
+    "pinyin": "xībānyáwén/yǔ",
+    "english": "Spanish language",
+    "level": 6
+  },
+  {
+    "chinese": "日文/日语",
+    "pinyin": "rìwén/yǔ",
+    "english": "Japanese language",
+    "level": 6
+  },
+  {
+    "chinese": "英文/英语",
+    "pinyin": "yīngwén/yǔ",
+    "english": "English language",
+    "level": 6
+  },
+  {
+    "chinese": "文",
+    "pinyin": "wén",
+    "english": "language, written language",
+    "level": 6
+  },
+  {
+    "chinese": "语",
+    "pinyin": "yǔ",
+    "english": "language",
+    "level": 6
+  },
+  {
+    "chinese": "话",
+    "pinyin": "huà",
+    "english": "spoken language",
+    "level": 6
+  },
+  {
+    "chinese": "上个",
+    "pinyin": "shànggè",
+    "english": "the last one",
+    "level": 6
+  },
+  {
+    "chinese": "下个",
+    "pinyin": "xiàgè",
+    "english": "the next one",
+    "level": 6
+  },
+  {
+    "chinese": "昨天",
+    "pinyin": "zuótiān",
+    "english": "yesterday",
+    "level": 6
+  },
+  {
+    "chinese": "前天",
+    "pinyin": "qiántiān",
+    "english": "day before yesterday",
+    "level": 6
+  },
+  {
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "english": "tomorrow",
+    "level": 6
+  },
+  {
+    "chinese": "后天",
+    "pinyin": "hòutiān",
+    "english": "day after tomorrow",
+    "level": 6
+  },
+  {
+    "chinese": "去年",
+    "pinyin": "qùnián",
+    "english": "last  year",
+    "level": 6
+  },
+  {
+    "chinese": "明年",
+    "pinyin": "míngnián",
+    "english": "next year",
+    "level": 6
+  },
+  {
+    "chinese": "前年",
+    "pinyin": "qiánnián",
+    "english": "year before last",
+    "level": 6
+  },
+  {
+    "chinese": "后年",
+    "pinyin": "hòunián",
+    "english": "year after next",
+    "level": 6
+  }
+]

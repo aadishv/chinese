@@ -1,0 +1,98 @@
+[
+  {
+    "chinese": "看书",
+    "pinyin": "kàn shū",
+    "english": "to read",
+    "level": 4
+  },
+  {
+    "chinese": "做功课",
+    "pinyin": "zuò gōngkè",
+    "english": "to do homework",
+    "level": 4
+  },
+  {
+    "chinese": "打篮球",
+    "pinyin": "dǎ lánqiú",
+    "english": "play basketball",
+    "level": 4
+  },
+  {
+    "chinese": "打网球",
+    "pinyin": "dǎ wǎngqiú",
+    "english": "play tennis",
+    "level": 4
+  },
+  {
+    "chinese": "画画儿",
+    "pinyin": "huà huàr",
+    "english": "paint or draw a picture",
+    "level": 4
+  },
+  {
+    "chinese": "弹钢琴",
+    "pinyin": "tán gāngqín",
+    "english": "to play piano",
+    "level": 4
+  },
+  {
+    "chinese": "打乒乓球",
+    "pinyin": "dǎ pīngpāng qiú",
+    "english": "to play pingpong",
+    "level": 4
+  },
+  {
+    "chinese": "玩电脑游戏",
+    "pinyin": "wán diànnǎo yóuxì",
+    "english": "to play computer games",
+    "level": 4
+  },
+  {
+    "chinese": "电脑",
+    "pinyin": "diànnǎo",
+    "english": "computer",
+    "level": 4
+  },
+  {
+    "chinese": "游泳",
+    "pinyin": "yóu yǒng",
+    "english": "to swim",
+    "level": 4
+  },
+  {
+    "chinese": "跑步",
+    "pinyin": "pǎo bù",
+    "english": "to run, to jog",
+    "level": 4
+  },
+  {
+    "chinese": "滑雪",
+    "pinyin": "huá xuě",
+    "english": "to ski",
+    "level": 4
+  },
+  {
+    "chinese": "去朋友的家玩",
+    "pinyin": "qù péngyou de jiā wán",
+    "english": "to go to a friend's house",
+    "level": 4
+  },
+  {
+    "chinese": "上网聊天",
+    "pinyin": "shàng wǎng liáotiān",
+    "english": "to chat on internet",
+    "level": 4
+  },
+  {
+    "chinese": "聊天",
+    "pinyin": "liáotiān",
+    "english": "to chat",
+    "level": 4
+  },
+  {
+    "chinese": "上网",
+    "pinyin": "shàng wǎng",
+    "english": "to go online",
+    "level": 4
+  }
+]

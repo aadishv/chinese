@@ -1,0 +1,74 @@
+[
+  {
+    "chinese": "课本",
+    "pinyin": "kèběn",
+    "english": "textbook",
+    "level": 7
+  },
+  {
+    "chinese": "笔记本",
+    "pinyin": "bǐjìběn",
+    "english": "notebook; laptop",
+    "level": 7
+  },
+  {
+    "chinese": "字典/词典",
+    "pinyin": "zìdiǎn/cídiǎn",
+    "english": "dictionary",
+    "level": 7
+  },
+  {
+    "chinese": "打字",
+    "pinyin": "dǎ zì",
+    "english": "to type",
+    "level": 7
+  },
+  {
+    "chinese": "文化",
+    "pinyin": "wénhuà",
+    "english": "culture",
+    "level": 7
+  },
+  {
+    "chinese": "历史",
+    "pinyin": "lìshǐ",
+    "english": "history",
+    "level": 7
+  },
+  {
+    "chinese": "练习册/练习本",
+    "pinyin": "liànxícé/liànxíběn",
+    "english": "workbook",
+    "level": 7
+  },
+  {
+    "chinese": "查",
+    "pinyin": "chá",
+    "english": "to look something up (in a dictionary)",
+    "level": 7
+  },
+  {
+    "chinese": "滑鼠/鼠标",
+    "pinyin": "huáshǔ/shǔbiāo",
+    "english": "(computer) mouse",
+    "level": 7
+  },
+  {
+    "chinese": "生活",
+    "pinyin": "shēnghuó",
+    "english": "to live; life",
+    "level": 7
+  },
+  {
+    "chinese": "本子",
+    "pinyin": "běnzi",
+    "english": "notebook",
+    "level": 7
+  },
+  {
+    "chinese": "视频",
+    "pinyin": "shìpín",
+    "english": "video",
+    "level": 7
+  }
+]
