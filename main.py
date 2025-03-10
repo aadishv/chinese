@@ -33,23 +33,6 @@ import os
 import re
 import subprocess
 
-###############################################
-# TODO:                                       #
-#   [X] Implement review function, which will #
-#     take in a card json file and check all  #
-#     English to improve efficiency           #
-#   [X] Implement cards function, which will  #
-#     export the ground truth json to a       #
-#     Fresh Cards-compatible format           #
-#   [X] Implement custom function, which will #
-#     allow the user to import custom cards   #
-#   [X] Implement supplemental function,      #
-#     which will scan Canvas tables to get    #
-#     supplemental cards                      #
-#   [X] Add "change Chinese" option for       #
-#     conflict resolution                     #
-###############################################
-
 matches = {
     "adj": "adjective",
     "adv": "adverb",
